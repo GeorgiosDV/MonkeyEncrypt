@@ -19,3 +19,7 @@ To decode a file, simply run:
 ```bash
 ./monkeyencrypt -r monkeywords.txt.monkey
 ```
+
+## Credits
+[Georgios DV](https://github.com/Georgios DV)  
+[zazu7765](https://github.com/zazu7765)
